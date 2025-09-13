@@ -77,7 +77,8 @@ This project focuses on analyzing retail sales data to identify trends, forecast
 ---
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](dashboards/screenshots/dashboard.png)
+![Dashboard Screenshot]<img width="640" height="907" alt="dashboard" src="https://github.com/user-attachments/assets/86b59941-2eea-47e0-828f-d653b972afec" />
+
 
 ---
 
