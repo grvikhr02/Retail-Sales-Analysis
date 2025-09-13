@@ -75,6 +75,11 @@ This project focuses on analyzing retail sales data to identify trends, forecast
 * Comparison of actual vs. forecasted sales
 
 ---
+## 📈 Dashboard Preview
+
+![Dashboard Screenshot](dashboards/screenshots/dashboard.png)
+
+---
 
 ## 📂 Project Structure
 
